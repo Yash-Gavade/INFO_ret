@@ -2,7 +2,6 @@ import random
 import word2vec
 import pickle
 
-
 class Center:
     def __init__(self, embedding):
         self.embedding = embedding
