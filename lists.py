@@ -29,7 +29,6 @@ class Term:
         self.freq_in_each_doc[str(doc_id)] += 1
         self.total_freq += 1
 
-
 def create_positional_index(array_of_docs):
     terms = {}  # {term_string: term object}
     for doc in array_of_docs:
