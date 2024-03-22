@@ -1,5 +1,4 @@
-# Author: Amirhoseein Rajabpour 9731085
-# Information Retrieval project - Fall 2021
+
 import lists
 import preprocessing
 import process_query
